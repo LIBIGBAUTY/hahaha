@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Whahahaha
 
 You can use the [editor on GitHub](https://github.com/LIBIGBAUTY/hahaha/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
